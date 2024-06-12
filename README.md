@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **goyalshyama.agr@gmail.com**
 
-- ⚡ Fun fact **c**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shyama agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shyama agrawal" height="30" width="40" /></a>
