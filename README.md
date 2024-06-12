@@ -1,4 +1,4 @@
-![logo]([https://github.com/ShyamaAgrawal/ShyamaAgrawal/blob/main/git-banner.jpeg](https://github.com/ShyamaAgrawal/ShyamaAgrawal/blob/main/gitHubBanner.png))
+![logo](https://github.com/ShyamaAgrawal/ShyamaAgrawal/blob/main/gitHubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Shyama Agrawal</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
