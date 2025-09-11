@@ -1,7 +1,7 @@
 ![logo](https://github.com/ShyamaAgrawal/ShyamaAgrawal/blob/main/gitHubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Shyama Agrawal</h1>
-<h3 align="center">A passionate software engineer intern at JP Morgan Chase from India.</h3>
+<h3 align="center">A passionate software developer at JP Morgan Chase from India.</h3>
 
   
 # 💫 About Me:
